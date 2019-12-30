@@ -1,9 +1,9 @@
-# NLP-Classificacao_texto_nltk
+# NLP-text_classification_nltk
 Binary text classification from scratch.
 
 ## Getting Started
 
-From scratch bag of words and train_test_split implementation. NLTK Naive Bayes classifier used.
+From scratch bag of words and train_test_split implementation. NLTK Naive Bayes classifier used. The dataset is made of movie reviews from nltk corpus.
 
 ### Prerequisites
 
@@ -14,7 +14,6 @@ From scratch bag of words and train_test_split implementation. NLTK Naive Bayes 
 
 ### Installing
 
-Download the csv file;
 Choose the right .ipynb file and run it.
 
 For instance:
